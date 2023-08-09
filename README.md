@@ -7,6 +7,6 @@ __Sohum Phadke__
 
 Here are some of my graduation pics! 
 
-![IMG_9366](https://github.com/sohumphadke/data-6-website/assets/89147927/ce722e13-9884-40e5-8835-edb482273b80)
-![HHSGrad23_0001](https://github.com/sohumphadke/data-6-website/assets/89147927/0b531fee-50e4-4010-b019-46f6ccea0eb0)
-![HHSGrad23_0037](https://github.com/sohumphadke/data-6-website/assets/89147927/1a864541-2247-4755-b2ea-dd02f1bf384d)
+![HHSGrad23_0001](https://github.com/sohumphadke/data-6-website/assets/89147927/d199ecf4-9597-41f4-89ea-5d7021fe32c9)
+![IMG_9366](https://github.com/sohumphadke/data-6-website/assets/89147927/cd8c59c2-a5a1-4604-93e8-4f7cff2a6f38)
+![HHSGrad23_0037](https://github.com/sohumphadke/data-6-website/assets/89147927/432cbf9a-e4a2-4186-965d-17f7951833fa)
