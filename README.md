@@ -1,11 +1,11 @@
 # data-6-website
 __Sohum Phadke__
 
-📚 I'm currently pursuing a degree in Bioengineering at the University of California, Berkeley. Education is my primary focus right now, and I'm really passionate about Synthetic Biology and drug discovery.
+📚 I'm currently pursuing a degree in **Bioengineering** at the **University of California, Berkeley**. Education is my primary focus right now, and I'm really passionate about Synthetic Biology and drug discovery.
 
-🌟 When I'm not buried in textbooks and lectures, you can often find me playing tennis and/or listening to music. I believe in maintaining a balanced life, and these hobbies keep me inspired and refreshed.
+🌟 When I'm not buried in textbooks and lectures, you can often find me **playing tennis and/or listening to music**. I believe in maintaining a balanced life, and these hobbies keep me inspired and refreshed.
 
-Here are some of my graduation pics! 
+__Here are some of my graduation pics!__
 
 ![HHSGrad23_0001](https://github.com/sohumphadke/data-6-website/assets/89147927/d199ecf4-9597-41f4-89ea-5d7021fe32c9)
 ![IMG_9366](https://github.com/sohumphadke/data-6-website/assets/89147927/cd8c59c2-a5a1-4604-93e8-4f7cff2a6f38)
